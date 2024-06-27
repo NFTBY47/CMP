@@ -26,8 +26,7 @@ background-color: #26291c;
   font-size: 15px;
   border-radius: 1em 1em 1em;
   position: absolute;
-  top: 15px;
-  right: 15px;
+  
 }
 
 .hrr {
@@ -108,4 +107,5 @@ background-color: #26291c;
   border: #26291c;
   margin-top: -20px;
 }
+
 
