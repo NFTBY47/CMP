@@ -15,6 +15,10 @@
 .images {
     width: 300px;
     height: 300px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .hrr {
     margin: 20px 0;
